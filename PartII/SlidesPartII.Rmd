@@ -79,4 +79,4 @@ Learning how to publish code and data in order to structure my work and allow ot
 ---
 # Slides
 
-All slides are available on the [course GitHub page](https://github.com/)
+All slides are available on the [course GitHub page](https://github.com/PhD-SAFLBD/WinterSpring2021/tree/main/PartII)
