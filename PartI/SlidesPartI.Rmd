@@ -1,0 +1,81 @@
+---
+title: "**Winter-Spring 2021 | Part I**"
+subtitle: "Introduction to computational thinking (4 months)"
+author: Safouane Labbad
+date: "Economist | Data Scientist | Ph.D. Student at Ecole Mohammadia d'Ingénieurs <br> Ph.D. Supervisors:  [Laila Benhlima, Eng., Ph.D](https://www.researchgate.net/profile/Laila-Benhlima) | [Slimane Bah, Eng., Ph.D ](https://www.researchgate.net/profile/Slimane_Bah)"
+output:
+  xaringan::moon_reader:
+    css: ['metropolis-fonts', 'metropolis', 'ou-colors.css']
+    # self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+
+---
+# What this part is about
+
+- Learning C++ for speed and scalability issues 
+
+- Learning how to compute Machine/Deep Learning models through approximation and estimation
+
+- Other useful computational techniques and estimation approaches
+ 
+- Learning important details about computing models
+---
+#What I need to succeed in this course
+
+- Calculus & Linear Algebra deep understanding  ([Youtube Lectures](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL1C2ABAE35DE06898), [Textbook](https://www.amazon.fr/Linear-Algebra-Matrix-Analysis-Statistics/dp/1420095382))
+
+- General understanding of statistical modeling 
+
+- Previous coding experience and willingness to spend some time learning as I go
+
+---
+#What I will cover in this part
+
+- Basic computing
+
+- C++ & Advanced R coding
+
+- Optimization
+
+- Numerical and empirical modeling
+
+- Machine/Deep learning
+  - Supervised learning (*generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines*); 
+  - Unsupervised learning (*clustering, dimensionality reduction, kernel methods*); 
+  - Learning theory (*bias/variance tradeoffs, practical advice*); 
+  - Reinforcement learning and adaptive control.
+
+---
+#Course materials
+
+- Scientific computing with C++
+
+  - Everything I use in this course is freely available [here](https://web.stanford.edu/class/cs106b/schedule.html) and it is scheduled following 7 weeks with one assignement ([problem set](https://github.com/heavy3/programming-abstractions)) per week.
+
+-  Machine learning and statistical pattern recognition, [this course](http://cs229.stanford.edu/syllabus-spring2020.html) is scheduled following 10 weeks with one assignement ([problem set](https://github.com/ccombier/stanford-CS229)) per week
+ 
+- Additional resources
+
+ - Advanced R [here](https://adv-r.hadley.nz/)
+
+ - R and C++ Integration with Rcpp [here](https://www.amazon.fr/Seamless-Integration-Rcpp-Dirk-Eddelbuettel/dp/1461468671)
+
+ - Deep Learning with R [here](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X)
+
+---
+#What I have to do
+
+- Follow lectures schedule 
+
+- 12 computational problem sets + code review (7 for C++ & 5 for Machine/Deep Learning)
+
+- 2 Personal projects reports ( C++ programming project + Machine Learning project applied to a chosen field)
+
+---
+# Slides
+
+All slides are available on the [course GitHub page](https://github.com/)

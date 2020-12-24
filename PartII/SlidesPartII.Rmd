@@ -1,0 +1,82 @@
+---
+title: "**Winter-Spring 2021 | Part II**"
+subtitle: "Research Reproducibility Tools (2 months)"
+author: Safouane Labbad
+date: "Economist | Data Scientist | Ph.D. Student at Ecole Mohammadia d'Ingénieurs <br> Ph.D. Supervisors:  [Laila Benhlima, Eng., Ph.D](https://www.researchgate.net/profile/Laila-Benhlima) | [Slimane Bah, Eng., Ph.D ](https://www.researchgate.net/profile/Slimane_Bah)"
+output:
+  xaringan::moon_reader:
+    css: ['metropolis-fonts', 'metropolis', 'ou-colors.css']
+    # self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+
+---
+# What this part is about
+
+Learning how to publish code and data in order to structure my work and allow other colleagues to extend it with a minimum of effort. This has the potential to save a great deal of time in transmitting knowledge to future researchers and my future self. [source](https://ropensci.github.io/reproducibility-guide/sections/introduction/) 
+
+---
+#What I need to succeed in this course
+
+
+- Previous internship experiences that show me the necessity to learn about research reproducibility because it saves much time in production and research process  
+
+- Some previous contact with tools like GitHub, Latex and Rmarkdown 
+---
+#What I will cover in this part
+
+- Literate computing, authoring, and publishing (Markdown, Latex, knitr, R notebook, Jupyter)
+
+- Version control (Git, GitHub)
+
+- Tracking provenance (VisTrails, Kepler, Taverna)
+
+- Reproducible research ways (Research Compendia, The Turing Way) [here](https://the-turing-way.netlify.app/welcome)
+---
+#Course materials
+
+- Git and GitHub for the useR
+[here](https://happygitwithr.com/)
+
+- Statistical Analysis and reproducible research 
+[here](https://biostats.bepress.com/bioconductor/paper2/)
+
+- Packaging Data Analytical Work Reproducibily Using R (and Friends)
+[here](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986)
+
+- The rOpenSci reproducibility guide 
+[here](https://ropensci.github.io/reproducibility-guide/)
+
+- Examples of Research Compendia on GitHub
+[here](https://github.com/karthik/rstudio2019)
+
+- Reproducible R code
+[here](https://r-pkgs.org/)
+
+- R Markdown for research paper editing
+[here](https://bookdown.org/yihui/rmarkdown/)
+
+- Authoring Books and Technical Documents with R Markdown
+[here](https://bookdown.org/yihui/bookdown/introduction.html)
+
+ 
+---
+#What I have to do
+
+- Computational research paper report 
+
+  - This paper should respect  research reproducibility conditions learned in references cited above
+  
+  - This exercise consist of reproducing the same results of a given research paper in a chosen topic
+  
+  - It aims to examine my ability to replicate a previous study—or obtain consistent results looking at the same scientific question but with different data (using an algorithm of machine learning)
+
+- An R package providing an efficient implementation of a machine learning algorithm
+
+---
+# Slides
+
+All slides are available on the [course GitHub page](https://github.com/)
